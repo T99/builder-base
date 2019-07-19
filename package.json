@@ -1,7 +1,7 @@
 {
-	"name": "<name>",
+	"name": "builder-base",
 	"version": "0.1.0",
-	"description": "<desc>",
+	"description": "An easy-to-use base class for implementing the builder pattern.",
 	"main": "js/main",
 	"types": ".d.ts/main",
 	"files": [
@@ -18,15 +18,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/<github_org>/<base_name>.git"
+		"url": "git+https://github.com/T99/builder-base.git"
 	},
 	"keywords": [],
 	"author": "Trevor Sears <trevorsears.main@gmail.com> (http://trevorsears.io/)",
 	"license": "GPL-3.0-or-later",
 	"bugs": {
-		"url": "https://github.com/<github_org>/<base_name>/issues"
+		"url": "https://github.com/T99/builder-base/issues"
 	},
-	"homepage": "https://github.com/<github_org>/<base_name>#readme",
+	"homepage": "https://github.com/T99/builder-base#readme",
 	"devDependencies": {
 		"typescript": "latest",
 		"@types/jest": "latest",
